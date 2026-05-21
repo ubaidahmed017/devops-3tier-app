@@ -1,0 +1,8 @@
+node_modules/
+build/
+.env
+*.pem
+.terraform/
+*.tfstate*
+*.log
+k8s-final/
